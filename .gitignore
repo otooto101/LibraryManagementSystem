@@ -1,0 +1,24 @@
+# Standard .NET Ignore
+[Bb]in/
+[Oo]bj/
+out/
+[Dd]ebug/
+[Rr]elease/
+
+# User-specific files (Visual Studio)
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Secrets & Local Config
+appsettings.Development.json
+secrets.json
+
+# Project specific
+Logs/
+*.log
+
+# Git specific
+.git/
